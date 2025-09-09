@@ -1,1 +1,3 @@
-# Sistemas_Web2
+# Sitemas Web II
+
+Atividades desenvolvidas na disciplina de Sistemas Web II.
