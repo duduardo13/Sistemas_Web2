@@ -1,3 +1,7 @@
-# Sitemas Web II
+# Sitemas Web II - Atividades desenvolvidas na disciplina
 
-Atividades desenvolvidas na disciplina de Sistemas Web II.
+*Aluno:* Eduardo Barbosa Rodrigues  
+*Aluno:* Vinicius Pontes Oliva
+
+Professor: Me. Wellington Tuler.
+
