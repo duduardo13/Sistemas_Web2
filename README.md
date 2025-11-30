@@ -3,5 +3,4 @@
 *Aluno:* Eduardo Barbosa Rodrigues  
 *Aluno:* Vinicius Pontes Oliva
 
-Professor: Me. Wellington Tuler.
-
+Professor: Me. Wellington Tuler..
