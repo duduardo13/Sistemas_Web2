@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using TP01.Models;
 
 // Eduardo Barbosa Rodrigues e Vinicius Pontes Oliva
-// Matheus Leandro Terra Luciano (CB3024881)
 
 namespace TP01.Interface
 {

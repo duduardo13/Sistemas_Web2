@@ -9,7 +9,6 @@ using TP01.Models;
 using TP01.Repository;
 
 // Eduardo Barbosa Rodrigues e Vinicius Pontes Oliva
-// Matheus Leandro Terra Luciano (CB3024881)
 
 namespace TP01.Controller
 {
